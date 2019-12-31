@@ -1,11 +1,10 @@
-# blox.partial-package.navigation
+# blox.partial-package.resources
 
-A [Building Blox](https://github.com/Building-Blox/building-blox) package for navigation partials.
+A [Building Blox](https://github.com/Building-Blox/building-blox) package for resources partials.
 
 ## Dependencies
 - Bootstrap
-- jQuery
 
 ## Blocks
 ### Partials
-- nav [blox.partial.nav.quiz](https://github.com/richjava/blox.partial.nav.quiz)
+- downloads [blox.partial.nav.downloads](https://github.com/richjava/blox.partial.downloads.quiz)
