@@ -1,0 +1,3 @@
+[submodule "blox.partial-package.resources"]
+	path = blox.partial-package.resources
+	url = https://github.com/richjava/blox.partial-package.resources.git
