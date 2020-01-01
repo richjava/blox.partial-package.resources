@@ -1,3 +1,3 @@
-[submodule "blox.partial-package.resources"]
-	path = blox.partial-package.resources
-	url = https://github.com/richjava/blox.partial-package.resources.git
+[submodule "blox.partial.downloads.quiz"]
+	path = blox.partial.downloads.quiz
+	url = https://github.com/richjava/blox.partial.downloads.quiz.git
